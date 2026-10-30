@@ -1,0 +1,6 @@
+{
+  "name": "GhostLoad — Industrial Energy Waste & Cost Intelligence",
+  "description": "Low-cost ESP32 energy metering, 4-state machine activity classification, and Kenya Power KES waste intelligence system for workshop machinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
